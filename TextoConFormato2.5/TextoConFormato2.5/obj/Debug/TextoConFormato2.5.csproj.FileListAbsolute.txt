@@ -1,0 +1,15 @@
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\MainWindow.g.cs
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\App.g.cs
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5_MarkupCompile.cache
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5_MarkupCompile.lref
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\bin\Debug\TextoConFormato2.5.exe.config
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\bin\Debug\TextoConFormato2.5.exe
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\bin\Debug\TextoConFormato2.5.pdb
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\MainWindow.baml
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5.g.resources
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2._5.Properties.Resources.resources
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5.exe
+C:\Users\Laura\source\repos\TextoConFormato2.5\TextoConFormato2.5\obj\Debug\TextoConFormato2.5.pdb
