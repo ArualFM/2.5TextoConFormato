@@ -8,16 +8,17 @@
         Title="Texto con formato" Height="450" Width="800"
         Icon="/assets/128.ico">
     <Grid>
+        <TextBlock x:Name="MuestraTextoTextBlock" HorizontalAlignment="Left" Margin="82,294,0,0" TextWrapping="Wrap" TextTrimming="CharacterEllipsis"  VerticalAlignment="Top" Height="53" Width="562" Background="#FFDBF3B2" FontSize="20px" TextAlignment="Center"/>
         <TextBlock HorizontalAlignment="Left" Margin="82,178,0,0" TextWrapping="Wrap" Text="Texto" VerticalAlignment="Top" RenderTransformOrigin="-1.362,0.88"/>
-        <TextBox x:Name="TextoUsuarioTextBox" Height="58" Margin="82,203,590,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextoUsuarioTextBox_TextChanged" />
-        
+        <TextBox x:Name="TextoUsuarioTextBox" Height="58" Margin="82,203,557,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="TextoUsuarioTextBox_TextChanged" />
+
         <CheckBox x:Name="NegritaCheckBox" Content="Negrita" HorizontalAlignment="Left" Margin="327,200,0,0" VerticalAlignment="Top" Width="87" FontWeight="Bold" Checked="NegritaCheckBox_Checked" Unchecked="NegritaCheckBox_Unchecked"/>
-        <CheckBox x:Name="CursivaCheckBox" Content="Cursiva" HorizontalAlignment="Left" Margin="439,203,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.491,-1.827" Height="12" Width="67" FontStyle="Italic" Checked="CursivaCheckBox_Checked" Unchecked="CursivaCheckBox_Unchecked"/>
-        <TextBlock HorizontalAlignment="Left" Margin="545,200,0,0" TextWrapping="Wrap" Text="Color del texto" VerticalAlignment="Top" Height="24" Width="96"/>
-        <RadioButton x:Name="ColorAzulRadioButton" Content="Azul" HorizontalAlignment="Left" Margin="674,182,0,0" VerticalAlignment="Top" IsChecked="{x:Null}" RenderTransformOrigin="0.681,-0.605" Checked="ColorAzulRadioButton_Checked" Unchecked="ColorAzulRadioButton_Unchecked"/>
-        <RadioButton x:Name="ColorRojoRadioButton" Content="Rojo" HorizontalAlignment="Left" Margin="674,212,0,0" VerticalAlignment="Top" Checked="ColorRojoRadioButton_Checked" Unchecked="ColorRojoRadioButton_Unchecked"/>
-        <RadioButton x:Name="ColorVerdeRadioButton" Content="Verde" HorizontalAlignment="Left" Margin="674,246,0,0" VerticalAlignment="Top" Checked="ColorVerdeRadioButton_Checked" Unchecked="ColorVerdeRadioButton_Unchecked"/>
-        <TextBlock x:Name="MuestraTextoTextBlock" HorizontalAlignment="Left" Margin="82,294,0,0" TextWrapping="Wrap" TextTrimming="CharacterEllipsis" VerticalAlignment="Top" Height="53" Width="562" Background="#FFDBF3B2" FontSize="20px" TextAlignment="Center"/>
+        <CheckBox x:Name="CursivaCheckBox" Content="Cursiva" HorizontalAlignment="Left" Margin="439,203,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.491,-1.827" Height="24" Width="69" FontStyle="Italic" Checked="CursivaCheckBox_Checked" Unchecked="CursivaCheckBox_Unchecked"/>
+        <TextBlock HorizontalAlignment="Left" Margin="534,203,0,0" TextWrapping="Wrap" Text="Color del texto" VerticalAlignment="Top" Height="24" Width="96"/>
+        <RadioButton x:Name="ColorAzulRadioButton" Content="Azul" HorizontalAlignment="Left" Margin="674,182,0,0" VerticalAlignment="Top" IsChecked="True" RenderTransformOrigin="0.681,-0.605" Checked="ColorAzulRadioButton_Checked" />
+        <RadioButton x:Name="ColorRojoRadioButton" Content="Rojo" HorizontalAlignment="Left" Margin="674,212,0,0" VerticalAlignment="Top" Checked="ColorRojoRadioButton_Checked" />
+        <RadioButton x:Name="ColorVerdeRadioButton" Content="Verde" HorizontalAlignment="Left" Margin="674,246,0,0" VerticalAlignment="Top" Checked="ColorVerdeRadioButton_Checked"/>
+        
 
 
 
